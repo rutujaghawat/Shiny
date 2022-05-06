@@ -3,10 +3,10 @@ title: "Analysis of the mtcars Dataset"
 author: "Rutuja Ghawat"
 date: "06.05.2022"
 output:
+  slidy_presentation: default
   html_document:
     number_sections: yes
     toc: yes
-  slidy_presentation: default
   ioslides_presentation: default
 mode: selfcontained
 job: Reproducible Pitch Presentation
@@ -19,7 +19,7 @@ widgets: bootstrap
 
 ### See the Regression Models Course Project  
 
-- URL: *https://github.com/rutujaghawat/Shiny/tree/main*
+- URL: *https://github.com/rutujaghawat/Shiny*
 - Find here all the data that have been use for this presentation and also for the first part of the data Science Project: "First, you will create a Shiny application and deploy it on Rstudio's servers.Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application."
 
 ### Find all details here
@@ -39,6 +39,7 @@ library(datasets)
 head(mtcars, 3)
 ```
 ---
+
 ## mtcars Dataset - Format
 
 **A data frame with 32 observations on 11 variables.**
