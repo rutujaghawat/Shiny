@@ -18,7 +18,7 @@ widgets: bootstrap
 
 ### See the Regression Models Course Project  
 
-- URL: **
+- URL: *https://github.com/rutujaghawat/Shiny/tree/main*
 - Find here all the data that have been use for this presentation and also for the first part of the data Science Project: "First, you will create a Shiny application and deploy it on Rstudio's servers.Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application."
 
 ### Find all details here
