@@ -1,6 +1,5 @@
 library(shiny)
 library(datasets)
-library(ggpubr)
 
 mpgData <- mtcars
 mpgData$am <- factor(mpgData$am, labels = c("Automatic", "Manual"))
